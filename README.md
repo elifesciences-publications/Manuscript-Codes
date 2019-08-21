@@ -10,5 +10,7 @@ Most scripts were written by E Mae Guthman, with some noted exceptions:
 
 -- scripts with "dr" or "drg" in the title were written by Diego Restrepo
 
+-- Guthman 2019 decision tree 2.R was written by Philip Chu
+
 -- abfload.m was written by: % CONTRIBUTORS % Original version by Harald Hentschke (harald.hentschke@uni-tuebingen.de) % Extended to abf version 2.0 by Forrest Collman (fcollman@Princeton.edu) % pvpmod.m by Ulrich Egert (egert@bccn.uni-freiburg.de)
 
