@@ -1,6 +1,6 @@
 These scripts in the manuscript-codes repository are folders containing all code used in published manuscripts.
 
-For questions, please reach Mae at eguthman@princeton.edu Updated: 08-19-2019
+For questions, please reach Mae at eguthman@princeton.edu Updated: 08-22-2019
 
 -------------------------------------------------------------------------------------------------------------------
 Code for Guthman et al 2019
