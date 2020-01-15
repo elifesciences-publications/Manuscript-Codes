@@ -1,3 +1,5 @@
+### This code is associated with the paper from Guthman et al., "Cell type specific control of basolateral amygdala neuronal circuits via entorhinal cortex-driven feedforward inhibition". eLife, 2020. http://dx.doi.org/10.7554/eLife.50601
+
 These scripts in the manuscript-codes repository are folders containing all code used in published manuscripts.
 
 For questions, please reach Mae at eguthman@princeton.edu Updated: 08-22-2019
